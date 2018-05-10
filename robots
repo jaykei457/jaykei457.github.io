@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+
+Sitemap:https://jaykei457.github.io/sitemap.xml
